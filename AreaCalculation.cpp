@@ -3,7 +3,7 @@
 // Created by: Andrew-Ten-Den
 // Created on: February 2022
 // This program calculates the area and perimeter of a rectangle
-//    with dimensions 5cm by 3cm
+//    with dimensions 5 cm by 3 cm
 
 #include <iostream>
 
